@@ -1,2 +1,2 @@
 # Cloaks-plus
-Cloaks plus is the best cloak mod!
+The original installer for Cloaks+
